@@ -289,7 +289,7 @@ public class Application
 			break;
 			
 		case 2:
-			System.out.println("Exit");
+			System.out.println("*********************");
 			System.out.println("Thanks for Connecting");
 			System.out.println("*********************");
 			System.exit(0);
