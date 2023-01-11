@@ -1,2 +1,3 @@
 # javatests
-Some sample java programs
+Some Basic Core Java sample programs
+
